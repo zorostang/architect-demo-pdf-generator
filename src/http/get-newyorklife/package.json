@@ -1,0 +1,9 @@
+{
+  "name": "testapp-get-newyorklife",
+  "dependencies": {
+    "@architect/data": "^2.0.14",
+    "@architect/functions": "^2.0.15",
+    "chrome-aws-lambda": "^1.13.0",
+    "puppeteer-core": "^1.13.0"
+  }
+}
